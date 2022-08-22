@@ -36,8 +36,9 @@ h1{
 .about-section{
   background-image: url(./images/shapes/7.png);
   background-repeat: no-repeat;
-  background-position: left;
-  background-color: #FAE1CA;
+  background-position: center center;
+  background-size: cover;
+
 }
 .about-img{
   width: 400px;
